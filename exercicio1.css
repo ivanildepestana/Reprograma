@@ -1,0 +1,64 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+
+h1{
+    font-size: 25px;
+    text-align: center;
+}
+
+div.rock{
+
+    width: 200px;
+    border: 1px solid  black;
+    float: left;
+    margin-top: 50px;
+    margin-left:10px;
+}
+
+img.rock1 {
+width: 80px;
+height: 80px;
+border: 1px solid #e6e6e6; 
+margin-right: 5px;
+text-align: center;
+padding: 0;
+}
+
+li {
+font-size: 12px;
+color: red;
+
+
+}
+
+
+header.logo{
+    z-index:99;
+    position:fixed;
+    height: 40px;
+    width: 100%;
+    background-color: rgba(70, 39, 85, 0.9);
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 7px;
+       
+
+}
+img.vinis{
+    width: 60px;
+    height:45px;
+    margin-top:-6px;
+    
+
+
+
+}
+
+.botaoComprar{
+     float: right;
+}
